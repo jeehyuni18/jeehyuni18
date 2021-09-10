@@ -12,7 +12,7 @@
 
 ## 프로젝트 경험
 
-### 슬기로운 백신생활 ( 코로나 백신/격리 후기 커뮤니티 서비스)   　　　　      21.08, 6주 |  https://vaccine-life.net/
+### 슬기로운 백신생활 ( 코로나 백신/격리 후기 커뮤니티 서비스)   　　　　        https://vaccine-life.net/
 https://github.com/Vaccine-life
 
 	  기술: Spring-boot, JPA, AWS RDS, MySql, AWS EC2, Nginx, React, Redux, S3, Cloude Front, Route53 
@@ -28,7 +28,7 @@ https://github.com/Vaccine-life
 
 <br></br>
 
-### 벨로그(velog) 클론코딩                     　　　　　　　　　　　　            　　                    　　　　　　    21.07, 1주 |  https://bit.ly/3tcAta2
+### 벨로그(velog) 클론코딩                     　　　　　　　　　　　　            　　                    　　　　　　      https://bit.ly/3tcAta2
 https://github.com/velog-api
 
 	  기술:  Spring-boot, JPA, AWS RDS, MySql, AWS EC2, React, Redux, Styled-Components, Toast MarkDown Editor
@@ -38,7 +38,7 @@ https://github.com/velog-api
 <br></br>
 
 
-### 데이터 네트워크 (기업 데이터 시각화 관계망 그래프)        　　　　              　　　　              20.12, 3주 |  https://bit.ly/3kX9go0
+### 데이터 네트워크 (기업 데이터 시각화 관계망 그래프)        　　　　              　　　　                https://bit.ly/3kX9go0
 https://github.com/jeehyuni18/DataNet-Platform.git
 https://github.com/jeehyuni18/Datanet-spring.git
 
@@ -49,7 +49,7 @@ https://github.com/jeehyuni18/Datanet-spring.git
 -	기업 정보 게시판, 차트 그래프 CRUD api 개발
 
 <br></br>
-### Universal-film-fetival ( 세계 영화제 사이트 )             　　　　         　　　　        　　　　                       19.12, 8주 | https://bit.ly/2Viemm8
+### Universal-film-fetival ( 세계 영화제 사이트 )             　　　　         　　　　        　　　　                        https://bit.ly/2Viemm8
 	   기술: php, html, css, mysql
      
 -	기본적인 html, css를 이용한 홈페이지 마크업
